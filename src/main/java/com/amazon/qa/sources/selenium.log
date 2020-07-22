@@ -1,0 +1,19 @@
+09:56:43,842 DEBUG devpinoyLogger:27 - Lonch chrome Browser
+09:56:44,158 DEBUG devpinoyLogger:40 - Valid tital
+09:56:46,586 DEBUG devpinoyLogger:33 - close all browser
+09:56:53,680 DEBUG devpinoyLogger:27 - Lonch chrome Browser
+09:56:56,843 DEBUG devpinoyLogger:47 - verified login btn
+09:56:57,356 DEBUG devpinoyLogger:33 - close all browser
+09:57:04,354 DEBUG devpinoyLogger:27 - Lonch chrome Browser
+09:57:07,460 DEBUG devpinoyLogger:54 - verifie new user btn
+09:57:08,218 DEBUG devpinoyLogger:33 - close all browser
+09:57:48,111 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:57:48,112 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:57:48,115 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:57:48,117 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:57:48,117 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Administrator/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:57:49,133 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:57:49,133 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:57:49,136 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:57:49,137 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:57:49,137 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Administrator/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

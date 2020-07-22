@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="164260" started-at="2020-07-22T09:55:00 IST" finished-at="2020-07-22T09:57:44 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="164260" started-at="2020-07-22T09:55:00 IST" finished-at="2020-07-22T09:57:44 IST">
+      <class name="com.wordpress.qa.testcases.MyappoimentPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.MyappoimentPageTest@6a1aab78]" name="setup" is-config="true" duration-ms="8507" started-at="2020-07-22T09:55:36 IST" finished-at="2020-07-22T09:55:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.wordpress.qa.testcases.MyappoimentPageTest@6a1aab78]" name="loginTest" duration-ms="19158" started-at="2020-07-22T09:55:45 IST" finished-at="2020-07-22T09:56:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.MyappoimentPageTest@6a1aab78]" name="teardown" is-config="true" duration-ms="1241" started-at="2020-07-22T09:56:04 IST" finished-at="2020-07-22T09:56:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.MyappoimentPageTest -->
+      <class name="com.wordpress.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.LoginPageTest@74ad1f1f]" name="setup" is-config="true" duration-ms="23213" started-at="2020-07-22T09:55:00 IST" finished-at="2020-07-22T09:55:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.wordpress.qa.testcases.LoginPageTest@74ad1f1f]" name="loginTest" duration-ms="12124" started-at="2020-07-22T09:55:23 IST" finished-at="2020-07-22T09:55:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.LoginPageTest@74ad1f1f]" name="teardown" is-config="true" duration-ms="974" started-at="2020-07-22T09:55:35 IST" finished-at="2020-07-22T09:55:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.LoginPageTest -->
+      <class name="com.wordpress.qa.testcases.NewAppoimentPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.NewAppoimentPageTest@462d5aee]" name="setup" is-config="true" duration-ms="12999" started-at="2020-07-22T09:56:05 IST" finished-at="2020-07-22T09:56:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.wordpress.qa.testcases.NewAppoimentPageTest@462d5aee]" name="loginTest" duration-ms="17102" started-at="2020-07-22T09:56:18 IST" finished-at="2020-07-22T09:56:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.NewAppoimentPageTest@462d5aee]" name="teardown" is-config="true" duration-ms="1360" started-at="2020-07-22T09:56:35 IST" finished-at="2020-07-22T09:56:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.NewAppoimentPageTest -->
+      <class name="com.wordpress.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@69b0fd6f]" name="setup" is-config="true" duration-ms="6753" started-at="2020-07-22T09:56:37 IST" finished-at="2020-07-22T09:56:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="wishlistTest()[pri:1, instance:com.wordpress.qa.testcases.HomePageTest@69b0fd6f]" name="wishlistTest" duration-ms="253" started-at="2020-07-22T09:56:43 IST" finished-at="2020-07-22T09:56:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlistTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@69b0fd6f]" name="teardown" is-config="true" duration-ms="2425" started-at="2020-07-22T09:56:44 IST" finished-at="2020-07-22T09:56:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@69b0fd6f]" name="setup" is-config="true" duration-ms="7080" started-at="2020-07-22T09:56:46 IST" finished-at="2020-07-22T09:56:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifiloginBtn()[pri:2, instance:com.wordpress.qa.testcases.HomePageTest@69b0fd6f]" name="verifiloginBtn" duration-ms="3162" started-at="2020-07-22T09:56:53 IST" finished-at="2020-07-22T09:56:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifiloginBtn -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@69b0fd6f]" name="teardown" is-config="true" duration-ms="511" started-at="2020-07-22T09:56:56 IST" finished-at="2020-07-22T09:56:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@69b0fd6f]" name="setup" is-config="true" duration-ms="6997" started-at="2020-07-22T09:56:57 IST" finished-at="2020-07-22T09:57:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyNeewUser()[pri:3, instance:com.wordpress.qa.testcases.HomePageTest@69b0fd6f]" name="verifyNeewUser" duration-ms="3106" started-at="2020-07-22T09:57:04 IST" finished-at="2020-07-22T09:57:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNeewUser -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@69b0fd6f]" name="teardown" is-config="true" duration-ms="755" started-at="2020-07-22T09:57:07 IST" finished-at="2020-07-22T09:57:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.HomePageTest -->
+      <class name="com.wordpress.qa.testcases.newUserPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.newUserPageTest@757942a1]" name="setup" is-config="true" duration-ms="12203" started-at="2020-07-22T09:57:08 IST" finished-at="2020-07-22T09:57:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="wishlistTest()[pri:1, instance:com.wordpress.qa.testcases.newUserPageTest@757942a1]" name="wishlistTest" duration-ms="20761" started-at="2020-07-22T09:57:20 IST" finished-at="2020-07-22T09:57:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlistTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.wordpress.qa.testcases.newUserPageTest@757942a1]" name="teardown" is-config="true" duration-ms="3413" started-at="2020-07-22T09:57:41 IST" finished-at="2020-07-22T09:57:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.wordpress.qa.testcases.newUserPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
